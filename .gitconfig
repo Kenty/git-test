@@ -1,0 +1,7 @@
+[color]
+	ui = true
+[user]
+	name = Kenty
+	email = kent6223@gmail.com
+[core]
+	excludesfile = /Users/kent6223/Desktop/git-test/.gitignore
